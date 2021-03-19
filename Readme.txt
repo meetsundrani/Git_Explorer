@@ -9,3 +9,4 @@ git branch
 git pull
 git merge
 git rm
+git checkout branch_name

@@ -11,3 +11,6 @@ p:hover{
     border-radius: 12px;
     padding: auto;
 }
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: Black;}
